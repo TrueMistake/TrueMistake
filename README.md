@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**TrueMistake/TrueMistake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+import { developer, ceo } from Champer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+   name: "Timur Iskakov",
+   age: 30,
+   code: ["Javascript", "Node.js", "PHP"],
+   technologies: {
+      frontEnd: {
+         js: ["Nuxt.js", "Vue.js", "Apollo", "GraphQL"],
+         css: ["Material UI", "Tailwind UI", "Bootrstrap"]
+      },
+      backend: ["Laravel", "Symfony", "Node.js", "Socket.io", "WebRTC"],
+      CMS: ["WordPress", "Bitrix", "Strapi"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
+   },
+   currentLocation: ["Tbilisi, Georgia"],
+};
+```
