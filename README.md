@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```javascript
-import { developer, ceo } from Champer
+import { Web developer } from Moscow
 
 const aboutMe = {
    name: "Evgenii Kubyshkin",
