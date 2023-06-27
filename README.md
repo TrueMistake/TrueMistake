@@ -5,7 +5,7 @@ import { Web developer } from Moscow
 
 const aboutMe = {
    name: "Evgenii Kubyshkin",
-   age: 31,
+   age: 32,
    code: ["Javascript", "Node.js", "PHP"],
    technologies: {
       frontEnd: {
